@@ -9,6 +9,7 @@
 nav ul a,
 nav .brand-logo {
   color: #444;
+  font-size: medium;
 }
 
 p {
@@ -23,6 +24,7 @@ p {
   min-height: 380px;
   line-height: 0;
   height: auto;
+  width: auto;
   color: rgba(255,255,255,.9);
 }
   .parallax-container .section {
@@ -58,4 +60,27 @@ footer.page-footer {
 
 .countries td, th {
   padding: 7px 5px;
+}
+
+.light-grey {
+  background: #eaeaea;
+}
+
+nav .brand-logo {
+  color: #3AC0C7;
+  font-size: 1.7rem;
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+}
+
+.parallax-container .parallax img {
+  width: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.teal {
+  background: #696969 !important;
 }
