@@ -119,6 +119,6 @@ nav ul li a {
     fill: white;
 }
 
-.blog-link:hover {
+.blog-link {
     text-decoration: underline;
 }
